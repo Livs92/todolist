@@ -1,4 +1,4 @@
-📌 Sobre o projeto
+📌 Sobre o projeto:
 Desenvolvi uma API para gerenciamento de tarefas (To-Do List) utilizando Java e Spring Boot, como parte do meu aprendizado prático no desenvolvimento de aplicações back-end completas.
 
 Neste projeto, você encontrará:
